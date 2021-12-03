@@ -49,25 +49,25 @@ alias icat="kitty +kitten icat"
 # wayland exports
 # export _JAVA_AWT_WM_NONREPARENTING=1
 
-PATH="/home/filip/perl5/bin${PATH:+:${PATH}}"; export PATH;
-PERL5LIB="/home/filip/perl5/lib/perl5${PERL5LIB:+:${PERL5LIB}}"; export PERL5LIB;
-PERL_LOCAL_LIB_ROOT="/home/filip/perl5${PERL_LOCAL_LIB_ROOT:+:${PERL_LOCAL_LIB_ROOT}}"; export PERL_LOCAL_LIB_ROOT;
-PERL_MB_OPT="--install_base \"/home/filip/perl5\""; export PERL_MB_OPT;
-PERL_MM_OPT="INSTALL_BASE=/home/filip/perl5"; export PERL_MM_OPT;
+PATH="/home/{{- .chezmoi.username }}/perl5/bin${PATH:+:${PATH}}"; export PATH;
+PERL5LIB="/home/{{- .chezmoi.username }}/perl5/lib/perl5${PERL5LIB:+:${PERL5LIB}}"; export PERL5LIB;
+PERL_LOCAL_LIB_ROOT="/home/{{- .chezmoi.username }}/perl5${PERL_LOCAL_LIB_ROOT:+:${PERL_LOCAL_LIB_ROOT}}"; export PERL_LOCAL_LIB_ROOT;
+PERL_MB_OPT="--install_base \"/home/{{- .chezmoi.username }}/perl5\""; export PERL_MB_OPT;
+PERL_MM_OPT="INSTALL_BASE=/home/{{- .chezmoi.username }}/perl5"; export PERL_MM_OPT;
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/home/filip/miniconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+__conda_setup="$('/home/{{- .chezmoi.username }}/miniconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
 if [ $? -eq 0 ]; then
     eval "$__conda_setup"
 else
-    if [ -f "/home/filip/miniconda3/etc/profile.d/conda.sh" ]; then
-        . "/home/filip/miniconda3/etc/profile.d/conda.sh"
+    if [ -f "/home/{{- .chezmoi.username }}/miniconda3/etc/profile.d/conda.sh" ]; then
+        . "/home/{{- .chezmoi.username }}/miniconda3/etc/profile.d/conda.sh"
     else
-        export PATH="/home/filip/miniconda3/bin:$PATH"
+        export PATH="/home/{{- .chezmoi.username }}/miniconda3/bin:$PATH"
     fi
 fi
 unset __conda_setup
