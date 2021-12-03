@@ -1,0 +1,17 @@
+{{- $i3wm := false -}}
+{{- $swaywm := false -}}
+
+{{- $hostname := .chezmoi.hostname -}}
+{{- if eq $hostname "home-pc" -}}
+  {{- $i3wm = true -}}
+  {{- $swaywm = false -}}
+{{- end -}}
+{{- if eq $hostname "laptop-pc" -}}
+  {{- $i3wm = false -}}
+  {{- $swaywm = true -}}
+{{- end -}}
+
+
+[data]
+  i3wm = {{ $i3wm }}
+  swaywm = {{ $swaywm }}
