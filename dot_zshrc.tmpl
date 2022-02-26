@@ -40,7 +40,12 @@ alias vi=nvim
 export PATH="$HOME/codes/commands/:$PATH"
 export PATH="$HOME/.local/bin:$PATH"
 source <(kubectl completion zsh)
+{{- if (and (eq .chezmoi.os "linux") (not .arch)) }}
+source <(fluxctl completion zsh)
+{{- end }}
+{{- if (and (eq .chezmoi.os "linux") (not .nixos)) }}
 source <(flux completion zsh)
+{{- end }}
 source <(chezmoi completion zsh)
 
 # Kitty config

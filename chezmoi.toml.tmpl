@@ -5,16 +5,28 @@
 {{- if eq $hostname "home-pc" -}}
   {{- $i3wm = true -}}
   {{- $swaywm = false -}}
+  {{- $arch = true -}}
+  {{- $nixos = false -}}
+{{- end -}}
+{{- if eq $hostname "nixos" -}}
+  {{- $i3wm = true -}}
+  {{- $swaywm = false -}}
+  {{- $arch = false -}}
+  {{- $nixos = true -}}
 {{- end -}}
 {{- if eq $hostname "laptop-pc" -}}
   {{- $i3wm = false -}}
   {{- $swaywm = true -}}
+  {{- $arch = true -}}
+  {{- $nixos = false -}}
 {{- end -}}
 
 
 [data]
   i3wm = {{ $i3wm }}
   swaywm = {{ $swaywm }}
+  arch = {{ $arch }}
+  nixos = {{ $nixos }}
 
 encryption = "age"
 [age]
