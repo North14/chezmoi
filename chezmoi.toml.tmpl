@@ -1,10 +1,12 @@
 {{- $osid := .chezmoi.os -}}
+{{- $hwmodel := (output "hostnamectl" "--json=short" | mustFromJson).HardwareModel -}}
 {{- if hasKey .chezmoi.osRelease "id" -}}
 {{-   $osid = printf "%s-%s" .chezmoi.os .chezmoi.osRelease.id -}}
 {{- end -}}
 
 [data]
     osid = {{ $osid | quote }}
+    hwmodel = {{ $hwmodel | quote }}
 
 encryption = "age"
 [age]

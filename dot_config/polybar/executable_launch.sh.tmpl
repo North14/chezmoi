@@ -4,5 +4,9 @@ killall -q polybar
 
 while pgrep -x polybar >/dev/null; do sleep 1; done
 
+{{ if eq .hwmodel "MS-7751" }}
 polybar bar_main &
 polybar bar_side &
+{{ else if eq .hwmodel "HP ZBook 15u G3" }}
+polybar bar_laptop &
+{{ end }}
