@@ -14,7 +14,7 @@ Requires age key in ~/.config/sops/age/keys.txt
 
 ## Install packages
 
-    pacman -S --needed - < packages
+    yay -S --needed - < packages
 
 ### Install from source
 
