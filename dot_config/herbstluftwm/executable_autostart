@@ -1,0 +1,120 @@
+#!/bin/bash
+
+function hc() {
+    herbstclient "$@"
+}
+
+hc emit_hook reload
+
+Terminal=kitty
+Mod=Mod4
+
+hc keybind $Mod-Return spawn "${Terminal}"
+hc keybind $Mod-Shift-q quit
+hc keybind $Mod-Shift-r reload
+hc keybind $Mod-Shift-c close
+hc keybind $Mod-d spawn rofi -show drun
+
+hc keybind $Mod-h focus left
+hc keybind $Mod-j focus down
+hc keybind $Mod-k focus up
+hc keybind $Mod-l focus right
+
+hc keybind $Mod-Shift-h shift left
+hc keybind $Mod-Shift-j shift down
+hc keybind $Mod-Shift-k shift up
+hc keybind $Mod-Shift-l shift right
+
+hc keybind $Mod-u chain , split bottom 0.5 , focus -e down
+hc keybind $Mod-o chain , split right 0.5 , focus -e right
+hc keybind $Mod-Shift-u chain , split top 0.5 , focus -e up
+hc keybind $Mod-Shift-o chain , split left 0.5 , focus -e left
+hc keybind $Mod-Control-space split explode
+
+hc keybind $Mod-Control-h resize left +0.02
+hc keybind $Mod-Control-j resize down +0.02
+hc keybind $Mod-Control-k resize up +0.02
+hc keybind $Mod-Control-l resize right +0.02
+
+hc keybind $Mod-r remove
+hc keybind $Mod-q close_or_remove
+hc keybind $Mod-s floating toggle
+hc keybind $Mod-f fullscreen toggle
+hc keybind $Mod-p pseudotile toggle
+
+hc keybind $Mod-BackSpace cycle_monitor
+hc keybind $Mod-w cycle_monitor
+hc keybind $Mod-Tab cycle_all +1
+hc keybind $Mod-Space cycle_all +1
+hc keybind $Mod-Shift-Tab cycle_all -1
+hc keybind $Mod-c cycle
+hc keybind $Mod-i jumpto urgent
+
+hc keybind $Mod-period use_index +1 --skip-visible
+hc keybind $Mod-comma use_index -1 --skip-visible
+
+hc keybind $Mod-Print spawn ~/.config/herbstluftwm/scrot/scrot_area.sh
+hc keybind $Mod-Shift-Print spawn ~/.config/herbstluftwm/scrot/scrot_window.sh
+
+# tags
+TAG_NAMES=( {1..6} )
+TAG_KEYS=( {1..6} 0 )
+
+hc rename default "${TAG_NAMES[0]}" || true
+for i in ${!TAG_NAMES[@]} ; do
+    hc add "${TAG_NAMES[$i]}"
+    key="${TAG_KEYS[$i]}"
+    if ! [ -z "$key" ] ; then
+        hc keybind "$Mod-$key" use_index "$i"
+        hc keybind "$Mod-Shift-$key" move_index "$i"
+    fi
+done
+
+hc mousebind $Mod-Button1 move
+hc mousebind $Mod-Button2 zoom
+hc mousebind $Mod-Button3 resize
+
+hc set frame_active_opacity 40
+hc set frame_normal_opacity 15
+hc set frame_bg_transparent 1
+hc set frame_border_active_color '#8ec07c'
+hc set frame_border_normal_color '#282828'
+hc set frame_border_width 4
+hc set smart_frame_surroundings true
+hc set smart_window_surroundings true
+
+hc unrule -F
+hc rule focus=on
+hc rule floatplacement=center
+hc rule class=Lxappearance floating=on
+hc rule class=Pavucontrol floating=on
+hc rule class=bitwarden floating=on
+# steam stuff
+hc rule class=steam title~\Install - \*\ floating=on
+hc rule class=steam name=Settings floating=on
+hc rule class=dota2 focus=on floating=on
+# zoom stuff
+hc rule class=zoom floating=on
+hc rule class=zoom title~\Chat.\*\ tag=󰨇 floating=off index=1
+hc rule class=zoom title~\Participants.\*\ tag=󰨇 floating=off index=1
+hc rule class=zoom title=\Zoom Meeting\ tag=󰨇 floating=off index=0
+hc rule class=zoom title=\Zoom\ tag=󰨇 floating=off index=0
+hc rule class=zoom title=\Zoom - Free Account\ tag=󱐀 floating=off
+hc rule class=zoom title=\Zoom Cloud Meetings\ tag=󱐀 floating=off
+
+hc rule windowtype~'_NET_WM_WINDOW_TYPE_(DIALOG|UTILITY|SPLASH)' focus=on pseudotile=on
+hc rule class~'[Pp]inentry' instance=pinentry focus=on floating=on floatplacement=center keys_inactive='.*'
+hc rule windowtype='_NET_WM_WINDOW_TYPE_DIALOG' focus=on
+hc rule windowtype~'_NET_WM_WINDOW_TYPE_(NOTIFICATION|DOCK)' manage=off
+
+herbstclient set tree_style '╾│ ├└╼─┐'
+
+hc unlock
+
+autorandr --change
+herbstclient use 1
+herbstclient detect_monitors
+feh --bg-fill ~/Pictures/gharliera-cyberpunk-dark.png &
+~/.config/polybar/launch.sh &
+easyeffects --gapplication-service &
+clipit &
