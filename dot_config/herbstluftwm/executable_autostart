@@ -10,7 +10,6 @@ Terminal=kitty
 Mod=Mod4
 
 hc keybind $Mod-Return spawn "${Terminal}"
-hc keybind $Mod-Shift-q quit
 hc keybind $Mod-Shift-r reload
 hc keybind $Mod-Shift-c close
 hc keybind $Mod-d spawn rofi -show drun
