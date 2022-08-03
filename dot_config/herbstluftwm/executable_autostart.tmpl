@@ -117,3 +117,7 @@ feh --bg-fill ~/Pictures/gharliera-cyberpunk-dark.png &
 ~/.config/polybar/launch.sh &
 easyeffects --gapplication-service &
 clipit &
+{{ if eq .hwmodel "HP ZBook 15u G3" }}
+clight-gui --tray &
+blueman-applet &
+{{ end }}

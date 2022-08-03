@@ -2,191 +2,238 @@
     "commands": [
         {
             "name": "/overconfidence",
-            "func": "( ͠° ͟ʖ ͡°) OVERCONFIDENCE IS A SLOW AND INSIDIOUS KILLER ( ͠° ͟ʖ ͡°)"
+            "func": "( ͠° ͟ʖ ͡°) OVERCONFIDENCE IS A SLOW AND INSIDIOUS KILLER ( ͠° ͟ʖ ͡°)",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/sushi",
-            "func": "SUSHI SUSHI 📞 Pepega RUNNING LOW ON BRAINCELLS 📞 Pepega NEED BACKUP 📞 Pepega ALLIGATOR 📞 Pepega"
+            "func": "SUSHI SUSHI 📞 Pepega RUNNING LOW ON BRAINCELLS 📞 Pepega NEED BACKUP 📞 Pepega ALLIGATOR 📞 Pepega",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/investigation",
-            "func": "In case of an investigation by any federal entity or similar, I do not have any involvement with this group or with the people in it, I do not know how I am here, probably added by a third party, I do not support any actions by the member of this group."
+            "func": "In case of an investigation by any federal entity or similar, I do not have any involvement with this group or with the people in it, I do not know how I am here, probably added by a third party, I do not support any actions by the member of this group.",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/arch",
-            "func": "One time I was ordering coffee and suddenly realised the barista didn't know I use Arch. Needless to say, I stopped mid-order to inform her that I do indeed use Arch. I must have spoken louder than I intended because the whole café instantly erupted into a prolonged applause. I walked outside with my head held high. I never did finish my order that day, but just knowing that everyone around me was aware that I use Arch was more energising than a simple cup of coffee could ever be."
+            "func": "One time I was ordering coffee and suddenly realised the barista didn't know I use Arch. Needless to say, I stopped mid-order to inform her that I do indeed use Arch. I must have spoken louder than I intended because the whole café instantly erupted into a prolonged applause. I walked outside with my head held high. I never did finish my order that day, but just knowing that everyone around me was aware that I use Arch was more energising than a simple cup of coffee could ever be.",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/tiananmen",
-            "func": "动态网自由门天安门天安门法轮功李洪志Free Tibet 六四天安门事件The Tiananmen Square protests of 1989 天安门大屠杀The Tiananmen Square Massacre 反右派斗争The Anti-Rightist Struggle 大跃进政策The Great Leap Forward 文化大革命The Great Proletarian Cultural Revolution 人权Human Rights 民运Democratization 自由Freedom 独立Independence 多党制Multi-party system 台湾台湾Taiwan Formosa 中华民国Republic of China"
+            "func": "动态网自由门天安门天安门法轮功李洪志Free Tibet 六四天安门事件The Tiananmen Square protests of 1989 天安门大屠杀The Tiananmen Square Massacre 反右派斗争The Anti-Rightist Struggle 大跃进政策The Great Leap Forward 文化大革命The Great Proletarian Cultural Revolution 人权Human Rights 民运Democratization 自由Freedom 独立Independence 多党制Multi-party system 台湾台湾Taiwan Formosa 中华民国Republic of China",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/nam",
-            "func": "🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬"
+            "func": "🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/nam2",
-            "func": "﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM"
+            "func": "﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM ﷽﷽﷽ NaM",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/nam3",
-            "func": "🏍 🚑 NaM 🚜 🚓 🚛 🚕 NaM 🚚 🚗 🏎 🚜 🚓 🏍 NaM 🚕 🚜 🚕 🚛 🚕 🚚 🚗 SORRY FOR TRAFFIC NAM 🚕 🚜 🚕 🚓 🚛 🏎 🚑 🚒 NaM 🚓 🏍 🚓 🚜 NaM 🏎 🏎 🚜 NaM 🏎 🚜 🚓 🚜 NaM 🚑 🚑 NaM 🚗 🚗 🚚 NaM 🚗 🏎 🏎 🚚 🚛 NaM 🚓 🚜 🚕 🚜 🚙 🏍 NaM 🚙 🏍 🚌 🚲 NaM 🚌 🚐 🚌 🚒 NaM 🚎 🚒 🚙 🚕 🚕 🚑 🏍 🚓 🚜 🚛 NaM 🚚 🚚 🚗 🚗 🚜 🚓 NaM 🚑 🚒 🚑 🚲 🚒 🚲 NaM 🚎 🏍 🚌 🚜 🚙 🚛 🚕 🚚 NaM 🚕 🚚 🚗 🏎 🏍 🚓 🏍 🚓 🚓 🚓 🏍 🚒 NaM 🚒 🚕 🚕 🚚 🚚 🏎 🚜 NaM 🚓 🚓 🚓 🏍 🚑 🚑 🚒 🚌 🏍 🚜 󠀀"
+            "func": "🏍 🚑 NaM 🚜 🚓 🚛 🚕 NaM 🚚 🚗 🏎 🚜 🚓 🏍 NaM 🚕 🚜 🚕 🚛 🚕 🚚 🚗 SORRY FOR TRAFFIC NAM 🚕 🚜 🚕 🚓 🚛 🏎 🚑 🚒 NaM 🚓 🏍 🚓 🚜 NaM 🏎 🏎 🚜 NaM 🏎 🚜 🚓 🚜 NaM 🚑 🚑 NaM 🚗 🚗 🚚 NaM 🚗 🏎 🏎 🚚 🚛 NaM 🚓 🚜 🚕 🚜 🚙 🏍 NaM 🚙 🏍 🚌 🚲 NaM 🚌 🚐 🚌 🚒 NaM 🚎 🚒 🚙 🚕 🚕 🚑 🏍 🚓 🚜 🚛 NaM 🚚 🚚 🚗 🚗 🚜 🚓 NaM 🚑 🚒 🚑 🚲 🚒 🚲 NaM 🚎 🏍 🚌 🚜 🚙 🚛 🚕 🚚 NaM 🚕 🚚 🚗 🏎 🏍 🚓 🏍 🚓 🚓 🚓 🏍 🚒 NaM 🚒 🚕 🚕 🚚 🚚 🏎 🚜 NaM 🚓 🚓 🚓 🏍 🚑 🚑 🚒 🚌 🏍 🚜 󠀀",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/interject",
-            "func": "I'd just like to interject for a moment. What you’re referring to as Linux, is in fact, GNU/Linux, or as I’ve recently taken to calling it, GNU plus Linux. Linux is not an operating system unto itself, but rather another free component of a fully functioning GNU system made useful by the GNU corelibs, shell utilities and vital system components comprising a full OS as defined by POSIX."
+            "func": "I'd just like to interject for a moment. What you’re referring to as Linux, is in fact, GNU/Linux, or as I’ve recently taken to calling it, GNU plus Linux. Linux is not an operating system unto itself, but rather another free component of a fully functioning GNU system made useful by the GNU corelibs, shell utilities and vital system components comprising a full OS as defined by POSIX.",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/norichard",
-            "func": "No, Richard, it's 'Linux', not 'GNU/Linux'. The most important contributions that the FSF made to Linux were the creation of the GPL and the GCC compiler. Those are fine and inspired products. GCC is a monumental achievement and has earned you, RMS, and the Free Software Foundation countless kudos and much appreciation."
+            "func": "No, Richard, it's 'Linux', not 'GNU/Linux'. The most important contributions that the FSF made to Linux were the creation of the GPL and the GCC compiler. Those are fine and inspired products. GCC is a monumental achievement and has earned you, RMS, and the Free Software Foundation countless kudos and much appreciation.",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/gottfrid",
-            "func": "As you may or may not be aware, Sweden is not a state in the United States of America. Sweden is a country in northern Europe. Unless you figured it out by now, U.S. law does not apply here . . . It is the opinion of us and our lawyers that you are fucking morons, and that you should please go sodomize yourself with retractable batons."
+            "func": "As you may or may not be aware, Sweden is not a state in the United States of America. Sweden is a country in northern Europe. Unless you figured it out by now, U.S. law does not apply here . . . It is the opinion of us and our lawyers that you are fucking morons, and that you should please go sodomize yourself with retractable batons.",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/honeydetected",
-            "func": "The honey bee, known as the Apis Hymenoptera, lives in colonial nests from wax. It ingests nectar, processes it and stores its complex substance into honey combs. This sweet, viscous food substance often gets identified by the homo sapiens in a disquieting way to warn his other fellow species about such discovery HONEYDETECTED﻿"
+            "func": "The honey bee, known as the Apis Hymenoptera, lives in colonial nests from wax. It ingests nectar, processes it and stores its complex substance into honey combs. This sweet, viscous food substance often gets identified by the homo sapiens in a disquieting way to warn his other fellow species about such discovery HONEYDETECTED﻿",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/update",
-            "func": "As I see someone mentioning a Windows update on the internet forum, a smile breaks across my face. I put out the cigarette in the remains of the pizza I had for breakfast, crack my greasy fingers, adjust my fedora and start to explain that this is not an issue Linux - specifically Arch - users face. I slam the enter button, sit back and finish the pizza, refreshing every 2 seconds, waiting for the responses filled with jealousy and awe."
+            "func": "As I see someone mentioning a Windows update on the internet forum, a smile breaks across my face. I put out the cigarette in the remains of the pizza I had for breakfast, crack my greasy fingers, adjust my fedora and start to explain that this is not an issue Linux - specifically Arch - users face. I slam the enter button, sit back and finish the pizza, refreshing every 2 seconds, waiting for the responses filled with jealousy and awe.",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/neverjap",
-            "func": "You will never be Japanese. You will never find the love of your life in Japan, who looks like this and is a cutiepie Japanese girl. You will never be the protagonist in an anime. You will never have superpowers that allow you to overcome your most greatest tribulations. You'll always be a loser."
+            "func": "You will never be Japanese. You will never find the love of your life in Japan, who looks like this and is a cutiepie Japanese girl. You will never be the protagonist in an anime. You will never have superpowers that allow you to overcome your most greatest tribulations. You'll always be a loser.",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/feelsweirdman",
-            "func": "Also mods... Remove FeelsWeirdMan, I'm fucking tired of that shit. Remove it... All fucking FeelsWeirdMan combos, get 'em out of this fucking channel MaN, I'm done with that shit. Worst fucking emote ever, absolutely worse than ha HAA, cmonBruh, every fucking thing. 󠀀"
+            "func": "Also mods... Remove FeelsWeirdMan, I'm fucking tired of that shit. Remove it... All fucking FeelsWeirdMan combos, get 'em out of this fucking channel MaN, I'm done with that shit. Worst fucking emote ever, absolutely worse than ha HAA, cmonBruh, every fucking thing. 󠀀",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/insweden",
-            "func": "Like in Sweden in the newspapers if you post the picture of a man who's committed a crime like rape, and he's a Muslim or Black immigrant, you're \"racist\". Nevermind that the race of the suspect exists independently from whatever racial prejudices the reporter may hold. Obviously not all immigrants are criminals (correlation/causation), but this \"all groups are equal\" political correctness bullshit is making it impossible for the country to solve a problem it cannot discuss."
+            "func": "Like in Sweden in the newspapers if you post the picture of a man who's committed a crime like rape, and he's a Muslim or Black immigrant, you're \"racist\". Nevermind that the race of the suspect exists independently from whatever racial prejudices the reporter may hold. Obviously not all immigrants are criminals (correlation/causation), but this \"all groups are equal\" political correctness bullshit is making it impossible for the country to solve a problem it cannot discuss.",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/complain1",
-            "func": "So i have been fucking annoyed at people for complaining on everything just to complain, they cannot process the fact that they are existing even, they could not even comprehend it in any shape way or form, but they are still fucking complaining because they can complain. They can complain, you know why? Because nothing is fucking perfect, it is literally impossible for a thing to exist in this universe that would live up to the expectations that what we would call perfect."
+            "func": "So i have been fucking annoyed at people for complaining on everything just to complain, they cannot process the fact that they are existing even, they could not even comprehend it in any shape way or form, but they are still fucking complaining because they can complain. They can complain, you know why? Because nothing is fucking perfect, it is literally impossible for a thing to exist in this universe that would live up to the expectations that what we would call perfect.",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/complain2",
-            "func": "People cannot fucking enjoy anything because they are always searching for what is not good, they always want to complain, because thats the easiest thing to do, just searching the bad and ignoring what is good.  People always need something better than what was before because they are not satisfied what they have in their existence right now, people just cannot enjoy for what things are."
+            "func": "People cannot fucking enjoy anything because they are always searching for what is not good, they always want to complain, because thats the easiest thing to do, just searching the bad and ignoring what is good.  People always need something better than what was before because they are not satisfied what they have in their existence right now, people just cannot enjoy for what things are.",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/complain3",
-            "func": "\"Uhhh you are taking things too far man chill out lmfao\" for once in your fucking life think about bigger things your pity sorry ass, try to not be fucking selfish and do what you fucking can for things what humans would call \"good\" and maybe just enjoy things and try to help other people because in our pity ass sorry shitty existence thats the least you could fucking do."
+            "func": "\"Uhhh you are taking things too far man chill out lmfao\" for once in your fucking life think about bigger things your pity sorry ass, try to not be fucking selfish and do what you fucking can for things what humans would call \"good\" and maybe just enjoy things and try to help other people because in our pity ass sorry shitty existence thats the least you could fucking do.",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/complain4",
-            "func": "Maybe once in a while try to be better yourself, try to improve, try to be something else than negative, try to sympathise with others and be grateful for what you have. I just really hate the fact that we are doomed in existence because of our own species, we somehow have consciousness and we are just using it for stupid retarded shits, wasting our whole lives just being in a cesspool of our own and each others toxicness."
+            "func": "Maybe once in a while try to be better yourself, try to improve, try to be something else than negative, try to sympathise with others and be grateful for what you have. I just really hate the fact that we are doomed in existence because of our own species, we somehow have consciousness and we are just using it for stupid retarded shits, wasting our whole lives just being in a cesspool of our own and each others toxicness.",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/complain5",
-            "func": "You should be grateful for even existing, but sure, joke about this too like its a fucking copy pasta or something, talk me out like i am some cunt, do whatever you want, but at least, think about it, think about it even if just for a little while. Ass we can."
+            "func": "You should be grateful for even existing, but sure, joke about this too like its a fucking copy pasta or something, talk me out like i am some cunt, do whatever you want, but at least, think about it, think about it even if just for a little while. Ass we can.",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/wasting",
-            "func": "ᶤᶠ ʸᵒᵘ ᵃʳᵉ ʷᵃˢᵗᶤᶯᵍ ʸᵒᵘʳ ᵖʳᵉᶜᶤᵒᵘˢ ᵗᶤᵐᵉ ᶤᶯ ᵃᵗᵗᵉᵐᵖᵗˢ ᵗᵒ ʳᵉᵃᵈ ᵗʰᶤˢ ᵐᵉˢˢᵃᵍᵉ, ʸᵒᵘ'ʳᵉ ᵃᶜᵗᵘᵃˡˡʸ ᶤᶯ ᵗʳᵒᵘᵇˡᵉ, ᵍᵉᵗ ʸᵒᵘʳ ˡᶤᶠᵉ ᵗᵒᵍᵉᵗʰᵉʳ ᵇᵘᶜᵏᵒ. ᶜᵒᵖʸ ᵗʰᶤˢ ᵗʰᵉ ᵐᵉˢˢᵃᵍᵉ ᵗᵒ ʰᵉˡᵖ ᵘᶯᶠᵒʳᵗᵘᶯᵃᵗᵉ ˢᵒᵘˡˢ, ˡᶤᵏᵉ ʸᵒᵘʳˢᵉˡᶠ, ᵗᵒ ᵇᵉᶜᵒᵐᵉ ˢᵉˡᶠ-ᵃʷᵃʳᵉ Sadge"
+            "func": "ᶤᶠ ʸᵒᵘ ᵃʳᵉ ʷᵃˢᵗᶤᶯᵍ ʸᵒᵘʳ ᵖʳᵉᶜᶤᵒᵘˢ ᵗᶤᵐᵉ ᶤᶯ ᵃᵗᵗᵉᵐᵖᵗˢ ᵗᵒ ʳᵉᵃᵈ ᵗʰᶤˢ ᵐᵉˢˢᵃᵍᵉ, ʸᵒᵘ'ʳᵉ ᵃᶜᵗᵘᵃˡˡʸ ᶤᶯ ᵗʳᵒᵘᵇˡᵉ, ᵍᵉᵗ ʸᵒᵘʳ ˡᶤᶠᵉ ᵗᵒᵍᵉᵗʰᵉʳ ᵇᵘᶜᵏᵒ. ᶜᵒᵖʸ ᵗʰᶤˢ ᵗʰᵉ ᵐᵉˢˢᵃᵍᵉ ᵗᵒ ʰᵉˡᵖ ᵘᶯᶠᵒʳᵗᵘᶯᵃᵗᵉ ˢᵒᵘˡˢ, ˡᶤᵏᵉ ʸᵒᵘʳˢᵉˡᶠ, ᵗᵒ ᵇᵉᶜᵒᵐᵉ ˢᵉˡᶠ-ᵃʷᵃʳᵉ Sadge",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/ballsack",
-            "func": "⣿⣿⣿⣿⣿⣿⡢⠅⣽⠅⠨⠨⢐⠑⠠⡑⢼⡃⠄⠡⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣷⢑⢅⣿⠂⠄⠅⡂⠡⠡⡢⢱⣇⠄⢈⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⡗⡕⡐⣿⠄⠄⢁⢐⠡⡁⢪⠠⣷⠄⠄⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⡇⡪⠨⣷⠄⠈⠠⢐⢐⠨⠠⠑⣟⠄⠄⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⡿⡢⢑⢕⡯⠄⠠⢈⠐⢌⢆⢘⠌⣯⡀⠄⢺⣿⣿⣿⣿ ⣿⣿⣿⣿⣫⠪⢒⣼⠇⡁⠄⢐⠨⢢⢣⢂⠂⣻⠂⡀⠐⣿⣿⣿⣿ ⣿⣿⣿⣿⠊⢌⢴⢽⠣⠈⡂⡀⠅⢌⢳⢐⠄⢪⡗⠄⢂⢺⣿⣿⣿ ⣿⣿⢿⢱⢨⢎⢯⣞⢕⠄⢂⢂⠡⠘⡔⡇⡊⡨⡪⢡⠄⢊⢿⣿⣿ ⣿⣫⢟⡎⡇⢇⣷⢍⠢⠂⢀⠂⠌⢜⢰⡑⣐⢼⠑⢅⢂⠄⢣⢻⣿ ⣿⡺⡝⡔⣜⢼⠢⢢⠈⢓⠤⠨⣈⢌⡢⡱⡱⠑⠨⠐⢅⠂⠄⡝⣿ ⡗⠇⡪⣚⢜⠥⠑⡀⠡⠂⠄⠁⠁⠢⠑⠨⢀⢌⠢⢁⠡⢈⠨⠐⢼ ⣿⢨⠚⡜⠨⡈⡢⠂⠑⠤⡊⢔⠄⡢⡨⡌⡆⡑⠨⠠⠂⠄⠄⡁⣺ ⣿⣇⠕⠈⠌⠄⡀⠈⠈⠄⠄⠄⢀⠈⠄⠂⠐⡀⠡⠈⢀⠡⠐⢀⣾ ⣿⣿⣷⣧⣥⣐⣀⣀⣂⣁⣐⣀⣂⠄⠁⠄⠄⠄⠄⠄⠄⢀⢀⣾⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣔⣀⡀⢀⣀⣤⣴⣿⣿⣿"
+            "func": "⣿⣿⣿⣿⣿⣿⡢⠅⣽⠅⠨⠨⢐⠑⠠⡑⢼⡃⠄⠡⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣷⢑⢅⣿⠂⠄⠅⡂⠡⠡⡢⢱⣇⠄⢈⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⡗⡕⡐⣿⠄⠄⢁⢐⠡⡁⢪⠠⣷⠄⠄⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⡇⡪⠨⣷⠄⠈⠠⢐⢐⠨⠠⠑⣟⠄⠄⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⡿⡢⢑⢕⡯⠄⠠⢈⠐⢌⢆⢘⠌⣯⡀⠄⢺⣿⣿⣿⣿ ⣿⣿⣿⣿⣫⠪⢒⣼⠇⡁⠄⢐⠨⢢⢣⢂⠂⣻⠂⡀⠐⣿⣿⣿⣿ ⣿⣿⣿⣿⠊⢌⢴⢽⠣⠈⡂⡀⠅⢌⢳⢐⠄⢪⡗⠄⢂⢺⣿⣿⣿ ⣿⣿⢿⢱⢨⢎⢯⣞⢕⠄⢂⢂⠡⠘⡔⡇⡊⡨⡪⢡⠄⢊⢿⣿⣿ ⣿⣫⢟⡎⡇⢇⣷⢍⠢⠂⢀⠂⠌⢜⢰⡑⣐⢼⠑⢅⢂⠄⢣⢻⣿ ⣿⡺⡝⡔⣜⢼⠢⢢⠈⢓⠤⠨⣈⢌⡢⡱⡱⠑⠨⠐⢅⠂⠄⡝⣿ ⡗⠇⡪⣚⢜⠥⠑⡀⠡⠂⠄⠁⠁⠢⠑⠨⢀⢌⠢⢁⠡⢈⠨⠐⢼ ⣿⢨⠚⡜⠨⡈⡢⠂⠑⠤⡊⢔⠄⡢⡨⡌⡆⡑⠨⠠⠂⠄⠄⡁⣺ ⣿⣇⠕⠈⠌⠄⡀⠈⠈⠄⠄⠄⢀⠈⠄⠂⠐⡀⠡⠈⢀⠡⠐⢀⣾ ⣿⣿⣷⣧⣥⣐⣀⣀⣂⣁⣐⣀⣂⠄⠁⠄⠄⠄⠄⠄⠄⢀⢀⣾⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣔⣀⡀⢀⣀⣤⣴⣿⣿⣿",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/waves",
-            "func": "AlienPls ⟒⋏ves keep ⎐n ⟒⋏shing ⎐veԻ ⋔e AlienPls s⟒⟟⋔ ⎐⌰⟊ s⟒⟟⋔ ⎐⌰⟊ AlienPls g⌇⟟de ⟟n⟊⎐ ⟊he ⎐pen AlienPls ⊑⎐⎐⌇ ⋏Իe the ⊑⌰ԻԻen⟊s ⎐f ⟊he se⋏ AlienPls s⟒⟟⋔ ⎐⌰⟊ s⟒⟟⋔ ⎐⌰⟊ AlienPls ☌eep ⟟n⟊⎐ ⟊he ⎐⊑e⋏n AlienPls"
+            "func": "AlienPls ⟒⋏ves keep ⎐n ⟒⋏shing ⎐veԻ ⋔e AlienPls s⟒⟟⋔ ⎐⌰⟊ s⟒⟟⋔ ⎐⌰⟊ AlienPls g⌇⟟de ⟟n⟊⎐ ⟊he ⎐pen AlienPls ⊑⎐⎐⌇ ⋏Իe the ⊑⌰ԻԻen⟊s ⎐f ⟊he se⋏ AlienPls s⟒⟟⋔ ⎐⌰⟊ s⟒⟟⋔ ⎐⌰⟊ AlienPls ☌eep ⟟n⟊⎐ ⟊he ⎐⊑e⋏n AlienPls",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/systemd",
-            "func": "What you're referring to as SystemD, is in fact systemd, not SystemD, systemD, SyStEmD, or any other variation. It is stated on https://systemd.io that the only official names are \"systemd\" (all lowercase even on the beginning of a sentence), or \"systém D\" on high holidays (whatever that means)"
+            "func": "What you're referring to as SystemD, is in fact systemd, not SystemD, systemD, SyStEmD, or any other variation. It is stated on https://systemd.io that the only official names are \"systemd\" (all lowercase even on the beginning of a sentence), or \"systém D\" on high holidays (whatever that means)",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/wsl",
-            "func": "I'd just like to interject for a moment. What you're referring to as Linux, is in fact, Windows Subsystem for Linux, or as I've recently taken to calling it, WSL. Linux is not an operating system unto itself, but rather another free app in the Microsoft Store and part of a fully functioning Windows system made useful by the Windows OS, shell utilities and vital system components comprising a full OS as defined by EULA. 󠀀"
+            "func": "I'd just like to interject for a moment. What you're referring to as Linux, is in fact, Windows Subsystem for Linux, or as I've recently taken to calling it, WSL. Linux is not an operating system unto itself, but rather another free app in the Microsoft Store and part of a fully functioning Windows system made useful by the Windows OS, shell utilities and vital system components comprising a full OS as defined by EULA. 󠀀",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/alpine",
-            "func": "\"I use Linux as my operating system,\" I state proudly to the unkempt, bearded man. He swivels around in his desk chair with a devilish gleam in his eyes, ready to mansplain with extreme precision. \"Actually\", he says with a grin, \"Linux is just the kernel. You use GNU+Linux!' I don't miss a beat and reply with a smirk, \"I use Alpine, a distro that doesn't include the GNU Coreutils, or any other GNU code. It's Linux, but it's not GNU+Linux.\""
+            "func": "\"I use Linux as my operating system,\" I state proudly to the unkempt, bearded man. He swivels around in his desk chair with a devilish gleam in his eyes, ready to mansplain with extreme precision. \"Actually\", he says with a grin, \"Linux is just the kernel. You use GNU+Linux!' I don't miss a beat and reply with a smirk, \"I use Alpine, a distro that doesn't include the GNU Coreutils, or any other GNU code. It's Linux, but it's not GNU+Linux.\"",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/didntread",
-            "func": "Didn't read but I'd like you to know that my opinion of you is still negative. You wrote whatever that is up there in an effort to waste my time and in some weird fetish way to satisfy yourself. I'm not sure if you're still wrestling with the fact that you have an extra chromosome or have come to terms with it and are lashing out. But one thing is for sure, you sure know how to write something I'll never read."
+            "func": "Didn't read but I'd like you to know that my opinion of you is still negative. You wrote whatever that is up there in an effort to waste my time and in some weird fetish way to satisfy yourself. I'm not sure if you're still wrestling with the fact that you have an extra chromosome or have come to terms with it and are lashing out. But one thing is for sure, you sure know how to write something I'll never read.",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/archbased",
-            "func": "⣿⠿⢛⣽⣿⣿⡿⠃⠄⠄⠒⠂⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠐⠲⠈⠙⢿⣿⣿ ⠁⠊⢹⣿⣿⡟⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢀⣠⠄⠄⡄⠄⢠⣿⣿ ⠄⢀⣀⣈⡟⠁⠄⠄⠄⠄⠄⠄⣀⣀⣠⣤⣤⣤⣶⣾⣿⣿⣿⣿⡷⠄⢐⣿⣿ ⣾⣿⣿⣿⣿⡀⠄⠄⠄⠄⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠦⠈⢻⣿ ⣿⣿⣿⣿⣿⣷⡄⠄⠄⠄⠘⠛⠛⡟⠁⠄⠄⠄⠄⠄⠄⣀⡀⠄⠄⠄⠄⠄⢹ ⣿⣿⣿⣿⣿⣿⣿⠄⠄⠄⢀⣼⣿⣿⣆⠄⠄⠄⠄⠄⣸⣿⣧⡀⠄⠄⠄⠄⣸ ⢿⣋⣥⡾⣿⣿⠏⠄⠄⠄⣿⣿⣿⣿⣿⣶⣶⣶⣶⣾⣿⣿⣿⣿⣿⢰⣶⣿⣿ ⣄⣀⣀⣀⠉⠁⠄⠄⠄⠄⣿⣿⣿⣿⣿⣿⣿⣿⣟⣫⣭⣭⣿⣿⣇⣹⣿⣿⣿ ⣿⣿⣿⣿⠄⠄⠄⠄⠄⠄⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿⣿⣿ ⣛⣛⣋⣠⣤⣴⣄⡀⠄⠄⠄⠄⠈⠉⠉⠁⠒⠹⣿⣿⣿⣿⣿⢁⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⡀⠄⠄⠄⣀⠄⠄⠄⠄⠙⠛⠛⣉⣼⣿⣿⣿⣿⣿ ⣿⡟⠙⣿⡏⢉⠛⣿⠟⠋⢻⡏⢹⡏⢹⣿⣿⠉⡙⢻⣉⠉⣉⡏⢹⠉⠟⢹⣿ ⣿⠃⠂⢻⡇⠈⠁⣿⠄⣿⣿⡇⢨⡅⢸⣿⣿⠄⡁⢸⣿⠄⣿⣿⠄⠄⠄⣸⣿ ⣯⣴⣷⣬⣧⣼⣤⣿⣦⣤⣼⣧⣼⣧⣼⣿⣿⣤⣥⣼⣿⣤⣿⣿⣤⣼⣤⣿⣿"
+            "func": "⣿⠿⢛⣽⣿⣿⡿⠃⠄⠄⠒⠂⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠐⠲⠈⠙⢿⣿⣿ ⠁⠊⢹⣿⣿⡟⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢀⣠⠄⠄⡄⠄⢠⣿⣿ ⠄⢀⣀⣈⡟⠁⠄⠄⠄⠄⠄⠄⣀⣀⣠⣤⣤⣤⣶⣾⣿⣿⣿⣿⡷⠄⢐⣿⣿ ⣾⣿⣿⣿⣿⡀⠄⠄⠄⠄⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠦⠈⢻⣿ ⣿⣿⣿⣿⣿⣷⡄⠄⠄⠄⠘⠛⠛⡟⠁⠄⠄⠄⠄⠄⠄⣀⡀⠄⠄⠄⠄⠄⢹ ⣿⣿⣿⣿⣿⣿⣿⠄⠄⠄⢀⣼⣿⣿⣆⠄⠄⠄⠄⠄⣸⣿⣧⡀⠄⠄⠄⠄⣸ ⢿⣋⣥⡾⣿⣿⠏⠄⠄⠄⣿⣿⣿⣿⣿⣶⣶⣶⣶⣾⣿⣿⣿⣿⣿⢰⣶⣿⣿ ⣄⣀⣀⣀⠉⠁⠄⠄⠄⠄⣿⣿⣿⣿⣿⣿⣿⣿⣟⣫⣭⣭⣿⣿⣇⣹⣿⣿⣿ ⣿⣿⣿⣿⠄⠄⠄⠄⠄⠄⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿⣿⣿ ⣛⣛⣋⣠⣤⣴⣄⡀⠄⠄⠄⠄⠈⠉⠉⠁⠒⠹⣿⣿⣿⣿⣿⢁⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⡀⠄⠄⠄⣀⠄⠄⠄⠄⠙⠛⠛⣉⣼⣿⣿⣿⣿⣿ ⣿⡟⠙⣿⡏⢉⠛⣿⠟⠋⢻⡏⢹⡏⢹⣿⣿⠉⡙⢻⣉⠉⣉⡏⢹⠉⠟⢹⣿ ⣿⠃⠂⢻⡇⠈⠁⣿⠄⣿⣿⡇⢨⡅⢸⣿⣿⠄⡁⢸⣿⠄⣿⣿⠄⠄⠄⣸⣿ ⣯⣴⣷⣬⣧⣼⣤⣿⣦⣤⣼⣧⣼⣧⣼⣿⣿⣤⣥⣼⣿⣤⣿⣿⣤⣼⣤⣿⣿",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/1984",
-            "func": "⠀⠀⠀⠀⠀⠀⠀⣠⡀⠀⠀⠀⠀⠀⠀⠀⠀⢰⠤⠤⣄⣀⡀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⢀⣾⣟⠳⢦⡀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠉⠉⠉⠉⠉⠒⣲⡄ ⠀⠀⠀⠀⠀⣿⣿⣿⡇⡇⡱⠲⢤⣀⠀⠀⠀⢸⠀⠀⠀1984⠀⣠⠴⠊⢹⠁ ⠀⠀⠀⠀⠀⠘⢻⠓⠀⠉⣥⣀⣠⠞⠀⠀⠀⢸⠀⠀⠀⠀⢀⡴⠋⠀⠀⠀⢸⠀ ⠀⠀⠀⠀⢀⣀⡾⣄⠀⠀⢳⠀⠀⠀⠀⠀⠀⢸⢠⡄⢀⡴⠁⠀⠀⠀⠀⠀⡞⠀ ⠀⠀⠀⣠⢎⡉⢦⡀⠀⠀⡸⠀⠀⠀⠀⠀⢀⡼⣣⠧⡼⠀⠀⠀⠀⠀⠀⢠⠇⠀ ⠀⢀⡔⠁⠀⠙⠢⢭⣢⡚⢣⠀⠀⠀⠀⠀⢀⣇⠁⢸⠁⠀⠀⠀⠀⠀⠀⢸⠀⠀ ⠀⡞⠀⠀⠀⠀⠀⠀⠈⢫⡉⠀⠀⠀⠀⢠⢮⠈⡦⠋⠀⠀⠀⠀⠀⠀⠀⣸⠀⠀ ⢀⠇⠀⠀⠀⠀⠀⠀⠀⠀⠙⢦⡀⣀⡴⠃⠀⡷⡇⢀⡴⠋⠉⠉⠙⠓⠒⠃⠀⠀ ⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠀⡼⠀⣷⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⡞⠀⠀⠀⠀⠀⠀⠀⣄⠀⠀⠀⠀⠀⠀⡰⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⢧⠀⠀⠀⠀⠀⠀⠀⠈⠣⣀⠀⠀⡰⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀"
+            "func": "⠀⠀⠀⠀⠀⠀⠀⣠⡀⠀⠀⠀⠀⠀⠀⠀⠀⢰⠤⠤⣄⣀⡀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⢀⣾⣟⠳⢦⡀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠉⠉⠉⠉⠉⠒⣲⡄ ⠀⠀⠀⠀⠀⣿⣿⣿⡇⡇⡱⠲⢤⣀⠀⠀⠀⢸⠀⠀⠀1984⠀⣠⠴⠊⢹⠁ ⠀⠀⠀⠀⠀⠘⢻⠓⠀⠉⣥⣀⣠⠞⠀⠀⠀⢸⠀⠀⠀⠀⢀⡴⠋⠀⠀⠀⢸⠀ ⠀⠀⠀⠀⢀⣀⡾⣄⠀⠀⢳⠀⠀⠀⠀⠀⠀⢸⢠⡄⢀⡴⠁⠀⠀⠀⠀⠀⡞⠀ ⠀⠀⠀⣠⢎⡉⢦⡀⠀⠀⡸⠀⠀⠀⠀⠀⢀⡼⣣⠧⡼⠀⠀⠀⠀⠀⠀⢠⠇⠀ ⠀⢀⡔⠁⠀⠙⠢⢭⣢⡚⢣⠀⠀⠀⠀⠀⢀⣇⠁⢸⠁⠀⠀⠀⠀⠀⠀⢸⠀⠀ ⠀⡞⠀⠀⠀⠀⠀⠀⠈⢫⡉⠀⠀⠀⠀⢠⢮⠈⡦⠋⠀⠀⠀⠀⠀⠀⠀⣸⠀⠀ ⢀⠇⠀⠀⠀⠀⠀⠀⠀⠀⠙⢦⡀⣀⡴⠃⠀⡷⡇⢀⡴⠋⠉⠉⠙⠓⠒⠃⠀⠀ ⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠀⡼⠀⣷⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⡞⠀⠀⠀⠀⠀⠀⠀⣄⠀⠀⠀⠀⠀⠀⡰⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⢧⠀⠀⠀⠀⠀⠀⠀⠈⠣⣀⠀⠀⡰⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/overclownfidence",
-            "func": "( ͠° ͟ 🔴 ͡°) OVERCLOWNFIDENCE IS A SLOW AND HILARIOUS KILLER ( ͠° ͟ 🔴 ͡°)"
+            "func": "( ͠° ͟ 🔴 ͡°) OVERCLOWNFIDENCE IS A SLOW AND HILARIOUS KILLER ( ͠° ͟ 🔴 ͡°)",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/hafu",
-            "func": "ヽヽ༼༼ຈຈل͜ل͜ຈຈ༽༽ﾉﾉ HAFU TURN OFF THE VIBRATOR ヽヽ༼༼ຈຈل͜ل͜ຈຈ༽༽ﾉﾉ"
+            "func": "ヽヽ༼༼ຈຈل͜ل͜ຈຈ༽༽ﾉﾉ HAFU TURN OFF THE VIBRATOR ヽヽ༼༼ຈຈل͜ل͜ຈຈ༽༽ﾉﾉ",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/7tv",
-            "func": "⭐ 订阅层 | 成为 7TV 订阅者您现在可以订阅 7TV 并获得一些额外福利，包括徽章 、 访问零宽度表情 、 参与即将到来的全球表情抽奖等 ➡ https://7tv.app/subscribe FeelsOkayMan 👍 🪙"
+            "func": "⭐ 订阅层 | 成为 7TV 订阅者您现在可以订阅 7TV 并获得一些额外福利，包括徽章 、 访问零宽度表情 、 参与即将到来的全球表情抽奖等 ➡ https://7tv.app/subscribe FeelsOkayMan 👍 🪙",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/hijab",
-            "func": "When you wear a hijab, you are obeying the commands of Allah, and you can expect great rewards in return. It is Allah's protection of your natural beauty. You are too precious to be \"on display\" for each man to see. It is Allah's preservation of your chastity. Allah purifies your heart and mind through the hijab. Allah raises your dignity through the hijab. When a strange man looks at you, he respects you because he sees that you respect yourself."
+            "func": "When you wear a hijab, you are obeying the commands of Allah, and you can expect great rewards in return. It is Allah's protection of your natural beauty. You are too precious to be \"on display\" for each man to see. It is Allah's preservation of your chastity. Allah purifies your heart and mind through the hijab. Allah raises your dignity through the hijab. When a strange man looks at you, he respects you because he sees that you respect yourself.",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/ol",
-            "func": "{1} ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼ ￼￼￼￼￼￼￼￼￼￼￼￼￼ {2}"
+            "func": "{1} ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼ ￼￼￼￼￼￼￼￼￼￼￼￼￼ {2}",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/hp",
-            "func": "{1} ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼ {2}"
+            "func": "{1} ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼ {2}",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/nanP",
-            "func": "⠄⠄⠄⣸⣿⣿⣿⡿⠿⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠛⣃⠄ ⠄⡇⠄⣾⣿⣯⣥⣤⣤⣤⣤⣀⣀⣀⡀⠉⠉⢹⣿⣿⣿⡿⠋⠉⢀⣠⣴⣾⣿⠄ ⠠⠇⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⢿⣷⣶⣿⣿⣿⣿⠇⠠⠚⠛⠛⠛⠛⠏⠄ ⠄⠄⣸⣿⣿⣿⣿⡿⠿⠛⣉⠁⠄⠄⠄⢸⣿⣿⣿⣿⣿⠄⠄⣾⠂⠄⠄⢠⣿⠄ ⠄⢠⣿⣿⣿⣿⣿⣶⣦⣬⣫⣀⣀⣠⣴⣾⣿⣿⣿⣿⣿⣦⣾⣿⣷⣶⣿⣿⣿⡄ ⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⣿⣿⣿⣿⣿⣿⣿⡇ ⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⣿⣿⣿⣿⣿⣌⠻⣿⣿⣿⣿⣿⡇ ⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⢨⣿⣿⣿⣿⣿⣿⣦⣿⣿⣿⣿⣿⠁ ⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡘⠛⠛⠿⣿⠋⢁⣼⣿⣿⣿⣿⣿⠄ ⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣾⣷⠶⡶⠛⠿⢿⣿⣿⣿⡇⠄ ⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠄⠄⠄⠄⠄⠈⣿⣿⣿⠇⠄ ⡀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣁⣴⣶⠶⣿⠿⠃⣴⣿⣿⡟⠄⢰ ⠄⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⢿⣿⣿⣦⣦⣤⠄⢠⣤⣿⣿⡟⠄⠄⢸ ⠂⠄⠄⠈⠻⢿⣿⣿⣿⣿⣿⣿⣿⣁⣴⡿⠟⣡⣶⣤⡀⣶⡤⣿⣿⠛⠄⠄⠄⣾ ⠸⠄⠄⠄⠄⠄⠉⠛⠿⣿⣿⣿⣿⣿⡿⠄⣸⣿⣿⣿⡿⢿⣴⡿⠃⠄⠄⠄⠄⣿ 󠀀"
+            "func": "⠄⠄⠄⣸⣿⣿⣿⡿⠿⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠛⣃⠄ ⠄⡇⠄⣾⣿⣯⣥⣤⣤⣤⣤⣀⣀⣀⡀⠉⠉⢹⣿⣿⣿⡿⠋⠉⢀⣠⣴⣾⣿⠄ ⠠⠇⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⢿⣷⣶⣿⣿⣿⣿⠇⠠⠚⠛⠛⠛⠛⠏⠄ ⠄⠄⣸⣿⣿⣿⣿⡿⠿⠛⣉⠁⠄⠄⠄⢸⣿⣿⣿⣿⣿⠄⠄⣾⠂⠄⠄⢠⣿⠄ ⠄⢠⣿⣿⣿⣿⣿⣶⣦⣬⣫⣀⣀⣠⣴⣾⣿⣿⣿⣿⣿⣦⣾⣿⣷⣶⣿⣿⣿⡄ ⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⣿⣿⣿⣿⣿⣿⣿⡇ ⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⣿⣿⣿⣿⣿⣌⠻⣿⣿⣿⣿⣿⡇ ⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⢨⣿⣿⣿⣿⣿⣿⣦⣿⣿⣿⣿⣿⠁ ⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡘⠛⠛⠿⣿⠋⢁⣼⣿⣿⣿⣿⣿⠄ ⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣾⣷⠶⡶⠛⠿⢿⣿⣿⣿⡇⠄ ⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠄⠄⠄⠄⠄⠈⣿⣿⣿⠇⠄ ⡀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣁⣴⣶⠶⣿⠿⠃⣴⣿⣿⡟⠄⢰ ⠄⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⢿⣿⣿⣦⣦⣤⠄⢠⣤⣿⣿⡟⠄⠄⢸ ⠂⠄⠄⠈⠻⢿⣿⣿⣿⣿⣿⣿⣿⣁⣴⡿⠟⣡⣶⣤⡀⣶⡤⣿⣿⠛⠄⠄⠄⣾ ⠸⠄⠄⠄⠄⠄⠉⠛⠿⣿⣿⣿⣿⣿⡿⠄⣸⣿⣿⣿⡿⢿⣴⡿⠃⠄⠄⠄⠄⣿ 󠀀",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/momanddad",
-            "func": "⠄⠄⠄⠄⠄⢀⣤⣶⣶⣶⣦⡈⠙⣛⢩⣾⣿⡿⠗⠋⠁⠘⡟⢻⣿⣿⣿⣿⣿ ⠄⠄⠄⠄⢰⣿⣿⣿⣿⣿⣿⣿⣦⠄⠄⣿⡟⠄⠔⢦⡠⠒⠂⠄⢹⣿⣿⣿⡟ ⠄⠄⠄⠄⣿⢟⣽⣶⣶⣿⣿⢿⣿⣧⠄⠄⢀⣴⣾⣿⣿⣿⣷⣤⡙⠋⠛⠉⠄ ⣤⠄⠄⢸⠇⠄⠈⠙⣿⠋⠄⠄⠹⣿⠄⣰⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⠄⠄⠄ ⡙⠁⠄⢸⢠⣤⣤⣴⣿⣶⣦⣤⡄⢹⢰⣿⣿⣿⠻⣿⣿⡟⢻⣿⣿⣿⡀⠄⠄ ⠄⠄⠄⠄⠘⣿⣿⡛⠛⢻⣿⣿⠃⠈⣾⣿⣿⢃⡂⢿⣿⡇⣃⢻⣿⣿⡇⠄⠄ ⠄⠄⠄⠄⠄⠄⣉⠛⠒⣛⣉⠄⠄⠄⣿⣿⣯⠘⡛⢜⣛⡋⢘⡃⢹⣿⡷⠄⡀ ⠄⠄⠄⠄⠄⠄⠘⣧⣭⣿⡟⠄⠄⠄⣿⣿⢻⣜⢿⣼⣿⣧⡛⢛⢨⡭⢡⣾⣿ ⠄⠄⠄⠄⡴⢧⡀⠄⠄⠁⠄⢀⣀⢸⣿⣿⡆⢻⣿⣿⣿⡿⢿⡏⠾⢁⡿⣿⣿ ⢀⣠⡴⠞⠁⠈⠻⣦⣤⣤⣤⠞⠹⣾⣿⣿⣷⡀⠙⢷⣶⣾⠟⣠⡀⢸⣧⣿⣥ ⠉⠄⠄⠄⠄⠄⠄⠄⠈⠄⠄⠄⠰⢟⣛⡻⣿⡁⢶⣶⡀⣶⣿⣿⣷⡘⢿⣿⣿ ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣀⢰⣿⣿⣿⣮⢹⠈⠿⠃⠄⣴⣿⣿⣿⣎⢿⣿ ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢸⣿⣝⡛⠿⠿⠏⠈⣴⣿⣿⠄⣿⣿⣿⣿⣿⣦⡻ ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣿⣿⣿⣟⣿⣦⣴⣸⣿⣿⣿⡇⣿⣿⣿⣿⣿⣿⣿"
+            "func": "⠄⠄⠄⠄⠄⢀⣤⣶⣶⣶⣦⡈⠙⣛⢩⣾⣿⡿⠗⠋⠁⠘⡟⢻⣿⣿⣿⣿⣿ ⠄⠄⠄⠄⢰⣿⣿⣿⣿⣿⣿⣿⣦⠄⠄⣿⡟⠄⠔⢦⡠⠒⠂⠄⢹⣿⣿⣿⡟ ⠄⠄⠄⠄⣿⢟⣽⣶⣶⣿⣿⢿⣿⣧⠄⠄⢀⣴⣾⣿⣿⣿⣷⣤⡙⠋⠛⠉⠄ ⣤⠄⠄⢸⠇⠄⠈⠙⣿⠋⠄⠄⠹⣿⠄⣰⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⠄⠄⠄ ⡙⠁⠄⢸⢠⣤⣤⣴⣿⣶⣦⣤⡄⢹⢰⣿⣿⣿⠻⣿⣿⡟⢻⣿⣿⣿⡀⠄⠄ ⠄⠄⠄⠄⠘⣿⣿⡛⠛⢻⣿⣿⠃⠈⣾⣿⣿⢃⡂⢿⣿⡇⣃⢻⣿⣿⡇⠄⠄ ⠄⠄⠄⠄⠄⠄⣉⠛⠒⣛⣉⠄⠄⠄⣿⣿⣯⠘⡛⢜⣛⡋⢘⡃⢹⣿⡷⠄⡀ ⠄⠄⠄⠄⠄⠄⠘⣧⣭⣿⡟⠄⠄⠄⣿⣿⢻⣜⢿⣼⣿⣧⡛⢛⢨⡭⢡⣾⣿ ⠄⠄⠄⠄⡴⢧⡀⠄⠄⠁⠄⢀⣀⢸⣿⣿⡆⢻⣿⣿⣿⡿⢿⡏⠾⢁⡿⣿⣿ ⢀⣠⡴⠞⠁⠈⠻⣦⣤⣤⣤⠞⠹⣾⣿⣿⣷⡀⠙⢷⣶⣾⠟⣠⡀⢸⣧⣿⣥ ⠉⠄⠄⠄⠄⠄⠄⠄⠈⠄⠄⠄⠰⢟⣛⡻⣿⡁⢶⣶⡀⣶⣿⣿⣷⡘⢿⣿⣿ ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣀⢰⣿⣿⣿⣮⢹⠈⠿⠃⠄⣴⣿⣿⣿⣎⢿⣿ ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢸⣿⣝⡛⠿⠿⠏⠈⣴⣿⣿⠄⣿⣿⣿⣿⣿⣦⡻ ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣿⣿⣿⣟⣿⣦⣴⣸⣿⣿⣿⡇⣿⣿⣿⣿⣿⣿⣿",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/forsenboys",
-            "func": "⣿⣿⣿⣿⣿⡿⠛⣿⣿⣿⣿⡿⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⡇⠄⠘⢿⣿⡿⠁⠄⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣧⡀⠄⠈⠁⠄⠄⠄⠘⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⡿⣣⣴⣜⣧⡀⠄⠄⠄⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣟⢣⡛⣿⠻⠋⠄⠄⠄⠄⠄⠴⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣷⣿⡲⠄⠄⠄⠄⠄⠄⠄⠄⠄⠘⢿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⢏⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠘⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⠏⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠹⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⠇⠄⠐⢄⢤⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠊⠁⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⡄⠘⠄⠠⠜⠄⢀⡄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢛⣿⣿⣿⣿ ⣿⣿⣿⣧⠠⠤⠄⣴⣾⣿⣇⠄⠄⠄⠄⠄⠄⠄⠄⠣⠄⠄⢹⣻⣿⣿ ⣿⣿⣿⣿⣿⣶⣿⣿⣿⣿⣿⠄⠄⠄⠄⠄⠄⠄⠄⠄⡇⠄⠄⠄⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠆⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣿⣿ ⡟⠛⢰⠟⢷⠀⡟⢳⠀⡟⢳⢸⠛⠛⢸⡆⢸⠀⠀⡟⢳⠀⡞⠻⡄⢧⢰⠃⡞⢳ ⡷⠶⢸⠀⢸⠀⡷⡞⠀⠻⢦⢸⠶⠆⢸⢹⣸⠀⠀⡷⢾⣸⡇⠀⡇⠘⡏⠀⠻⢶ ⡇⠀⠸⣦⡼⠀⡇⢹⡈⣧⡼⢸⣤⣤⢸⠀⢿⠀⠀⣧⣼⠃⢧⣴⠃⠀⡇⠀⢧⣼"
+            "func": "⣿⣿⣿⣿⣿⡿⠛⣿⣿⣿⣿⡿⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⡇⠄⠘⢿⣿⡿⠁⠄⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣧⡀⠄⠈⠁⠄⠄⠄⠘⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⡿⣣⣴⣜⣧⡀⠄⠄⠄⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣟⢣⡛⣿⠻⠋⠄⠄⠄⠄⠄⠴⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣷⣿⡲⠄⠄⠄⠄⠄⠄⠄⠄⠄⠘⢿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⢏⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠘⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⠏⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠹⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⠇⠄⠐⢄⢤⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠊⠁⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⡄⠘⠄⠠⠜⠄⢀⡄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢛⣿⣿⣿⣿ ⣿⣿⣿⣧⠠⠤⠄⣴⣾⣿⣇⠄⠄⠄⠄⠄⠄⠄⠄⠣⠄⠄⢹⣻⣿⣿ ⣿⣿⣿⣿⣿⣶⣿⣿⣿⣿⣿⠄⠄⠄⠄⠄⠄⠄⠄⠄⡇⠄⠄⠄⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠆⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣿⣿ ⡟⠛⢰⠟⢷⠀⡟⢳⠀⡟⢳⢸⠛⠛⢸⡆⢸⠀⠀⡟⢳⠀⡞⠻⡄⢧⢰⠃⡞⢳ ⡷⠶⢸⠀⢸⠀⡷⡞⠀⠻⢦⢸⠶⠆⢸⢹⣸⠀⠀⡷⢾⣸⡇⠀⡇⠘⡏⠀⠻⢶ ⡇⠀⠸⣦⡼⠀⡇⢹⡈⣧⡼⢸⣤⣤⢸⠀⢿⠀⠀⣧⣼⠃⢧⣴⠃⠀⡇⠀⢧⣼",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/forsenv1",
-            "func": "You fucking retards I'm loading media remotely onto the stream computer which is why it lags streams been up for 6 days straight, I'm not your servant. So make sure to complain. I have no patience anymore. Sure \"complaining\" ever since destiny fuckers raided the stream these newfrogs are acting tarded. I have no patience for them. The only people who get to complain are the bajs here. Im going to ban all the destiny fuckers and normans. Only bajs get to complain so make sure to use a forsen emote while complaining or you're banned ."
+            "func": "You fucking retards I'm loading media remotely onto the stream computer which is why it lags streams been up for 6 days straight, I'm not your servant. So make sure to complain. I have no patience anymore. Sure \"complaining\" ever since destiny fuckers raided the stream these newfrogs are acting tarded. I have no patience for them. The only people who get to complain are the bajs here. Im going to ban all the destiny fuckers and normans. Only bajs get to complain so make sure to use a forsen emote while complaining or you're banned .",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/lemao",
-            "func": "⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⠿⠟⠉⢉⣀⣤⣄⣀⣀⠀⠀⠈⠙⠻⠿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⠋⠁⢀⣴⣾⣿⣿⣿⣿⣿⣿⣿⣶⠀⠀⠀⠀⠀⠙⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣇⠀⠀⣞⡛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣀⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣧⢰⡯⠿⠿⣿⣿⣿⠿⠿⠛⠛⠻⠷⡀⠀⠀⢀⣰⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣳⣾⣿⠃⣠⣤⣒⡋⠀⠀⣀⡀⢰⢸⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⡿⠟⠀⠙⠻⣷⣦⣤⣶⡭⠀⡸⢾⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⢥⣖⣀⠀⠀⠸⣿⣿⠿⠁⠀⣽⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣭⣿⣿⣷⣶⣿⠷⠔⠀⠈⢿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⡿⠟⠃⡽⠛⠛⠛⠛⠋⠀⠀⠀⢀⠐⠁⠈⠻⢿⣿⣿⣿⣿⣿ ⠿⠛⠉⠉⠉⠀⠀⠀⠀⠀⠳⣷⣷⠀⠀⠀⢀⡠⠕⠁⠀⠀⠀⠀⠀⠈⠉⠻⠿⢿ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠢⠒⠚⠁⠀"
+            "func": "⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⠿⠟⠉⢉⣀⣤⣄⣀⣀⠀⠀⠈⠙⠻⠿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⠋⠁⢀⣴⣾⣿⣿⣿⣿⣿⣿⣿⣶⠀⠀⠀⠀⠀⠙⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣇⠀⠀⣞⡛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣀⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣧⢰⡯⠿⠿⣿⣿⣿⠿⠿⠛⠛⠻⠷⡀⠀⠀⢀⣰⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣳⣾⣿⠃⣠⣤⣒⡋⠀⠀⣀⡀⢰⢸⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⡿⠟⠀⠙⠻⣷⣦⣤⣶⡭⠀⡸⢾⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⢥⣖⣀⠀⠀⠸⣿⣿⠿⠁⠀⣽⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣭⣿⣿⣷⣶⣿⠷⠔⠀⠈⢿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⡿⠟⠃⡽⠛⠛⠛⠛⠋⠀⠀⠀⢀⠐⠁⠈⠻⢿⣿⣿⣿⣿⣿ ⠿⠛⠉⠉⠉⠀⠀⠀⠀⠀⠳⣷⣷⠀⠀⠀⢀⡠⠕⠁⠀⠀⠀⠀⠀⠈⠉⠻⠿⢿ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠢⠒⠚⠁⠀",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/ciggot",
-            "func": "I just dont understand it. The ciggot has a freddie mercury pfp and a KISS banner but then says Led Zeppelin is dogshit. I like Queen, and I've seen KISS live, but wtf kind of take is that?"
+            "func": "I just dont understand it. The ciggot has a freddie mercury pfp and a KISS banner but then says Led Zeppelin is dogshit. I like Queen, and I've seen KISS live, but wtf kind of take is that?",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/clearlymissed",
-            "func": "Shots 1-5: Clearly missed. Shots 6-9: Missed due to recoil (bad spray control). Shots 10-11: Very close, but recoil and inaccuracy make these reasonable misses. Shot 12: Likely didn't actually fire because Hiko was already dead."
+            "func": "Shots 1-5: Clearly missed. Shots 6-9: Missed due to recoil (bad spray control). Shots 10-11: Very close, but recoil and inaccuracy make these reasonable misses. Shot 12: Likely didn't actually fire because Hiko was already dead.",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/disgusting",
-            "func": "You disgusting sub-human fucking piece of shit. Absolutely fucking gross. The person in front of me is one of the most disgusting fucking humans in the history of all of fucking mankind. Oh my god. People that throw their nasty fucking cigarette butts out the fucking window? Not only do they have a uncontrollable disgusting urge to stain their teeth and lips and make everything around them smell fucking disgusting, they have to share that addiction with the world by throwing their stupid fucking shit out their window. They probably throw their shit outside of restaurants, on the streets. Absolutely fucking disgusting. What a gross human being. Fuck me, I hate this shit"
+            "func": "You disgusting sub-human fucking piece of shit. Absolutely fucking gross. The person in front of me is one of the most disgusting fucking humans in the history of all of fucking mankind. Oh my god. People that throw their nasty fucking cigarette butts out the fucking window? Not only do they have a uncontrollable disgusting urge to stain their teeth and lips and make everything around them smell fucking disgusting, they have to share that addiction with the world by throwing their stupid fucking shit out their window. They probably throw their shit outside of restaurants, on the streets. Absolutely fucking disgusting. What a gross human being. Fuck me, I hate this shit",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/pride",
-            "func": "PrideHeyyy PrideKoala TransgenderPride PrideFloat PrideShrug gachiPRIDE BisexualPride PrideStrong NonbinaryPride PrideUwu PrideFlower GayPride PrideRhino PrideUnicorn maariePRIDE PridePenguin PridePog PrideHeartL PrideLaugh PrideLGBTea IntersexPride PrideDragon PrideLion PrideWave PrideToucan PrideRise PrideWorld PridePaint GenderFluidPride iaraPride PrideLove PansexualPride PrideLionYay PrideCrown PrideCute PrideHeartR KappaPride LesbianPride AsexualPride"
+            "func": "PrideHeyyy PrideKoala TransgenderPride PrideFloat PrideShrug gachiPRIDE BisexualPride PrideStrong NonbinaryPride PrideUwu PrideFlower GayPride PrideRhino PrideUnicorn maariePRIDE PridePenguin PridePog PrideHeartL PrideLaugh PrideLGBTea IntersexPride PrideDragon PrideLion PrideWave PrideToucan PrideRise PrideWorld PridePaint GenderFluidPride iaraPride PrideLove PansexualPride PrideLionYay PrideCrown PrideCute PrideHeartR KappaPride LesbianPride AsexualPride",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/coma",
-            "func": "If you're reading this, you've been in a coma for 10 years. We're trying a new technique. We don't know where this message will end up in your dream, but we're hoping we got through. PLEASE WAKE UP"
+            "func": "If you're reading this, you've been in a coma for 10 years. We're trying a new technique. We don't know where this message will end up in your dream, but we're hoping we got through. PLEASE WAKE UP",
+            "showInMsgContextMenu": false
         },
         {
             "name": "/pokipray",
-            "func": "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⠀⠀⡀⠀⡶⠌⢦⢯⡄⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣿⡦⣀⣾⣶⠀⠇⠀⣦⢹⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠠⠐⢸⣿⣿⣿⣟⣎⠙⣛⡁⠀⠀⠘⢧⡄⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣶⣾⣿⣿⣿⣄⣀⡀⠀⠀⠀⠘⠁⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⡷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣽⣻⣿⣽⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⣤⣶⣶⣄⠀⠀⠀⠘⣿⣿⣿⡟⠁⠀⠀⠀⠀⠠⣄⠀⠀⠀⠀⠀⠀ ⠀⠀⠘⢧⣿⣿⣿⣿⣷⠀⠀⢀⣿⣽⣿⡇⠀⠀⠀⠀⠀⢸⣿⣭⣦⠀⠀⠀⠀ ⠀⠀⠀⣿⣿⣿⣿⣿⢿⠀⠀⢸⣿⣿⣿⣷⠀⠀⠀⠀⠀⣼⣿⣿⣿⡆⠀⠀⠀ ⠀⠀⠘⣿⣿⣿⣿⠋⠻⠀⢀⣾⣿⢿⣿⣿⣆⠀⠀⠀⠀⣿⣿⣿⣿⡃⠀⠀⠀ ⠀⠀⠀⢸⣿⣿⣿⠆⠐⣲⣾⣿⠟⠀⢻⣿⣿⡄⠀⠀⠀⣿⣿⣿⣿⠁⠀⠀⠀ ⠀⠀⠀⠾⣿⣿⣷⠀⢸⣾⣿⡏⠀⠀⠀⣿⣾⣿⡄⠀⠀⣿⣿⣿⡟⠀⠀⠀⠀ ⠀⠀⠀⠀⣿⣿⠃⣴⣿⣿⠟⠃⠀⠀⠀⠈⣿⣿⣿⡀⢀⣿⣿⣿⠀⠀⠀⠀⠀ ⠀⠀⠀⢤⠿⢿⣶⡿⣟⠛⠁⠀⠀⠀⠀⠀⢻⣿⣿⣿⡾⣾⣿⣿⠀⠀⠀⠀"
+            "func": "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⠀⠀⡀⠀⡶⠌⢦⢯⡄⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣿⡦⣀⣾⣶⠀⠇⠀⣦⢹⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠠⠐⢸⣿⣿⣿⣟⣎⠙⣛⡁⠀⠀⠘⢧⡄⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣶⣾⣿⣿⣿⣄⣀⡀⠀⠀⠀⠘⠁⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⡷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣽⣻⣿⣽⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⣤⣶⣶⣄⠀⠀⠀⠘⣿⣿⣿⡟⠁⠀⠀⠀⠀⠠⣄⠀⠀⠀⠀⠀⠀ ⠀⠀⠘⢧⣿⣿⣿⣿⣷⠀⠀⢀⣿⣽⣿⡇⠀⠀⠀⠀⠀⢸⣿⣭⣦⠀⠀⠀⠀ ⠀⠀⠀⣿⣿⣿⣿⣿⢿⠀⠀⢸⣿⣿⣿⣷⠀⠀⠀⠀⠀⣼⣿⣿⣿⡆⠀⠀⠀ ⠀⠀⠘⣿⣿⣿⣿⠋⠻⠀⢀⣾⣿⢿⣿⣿⣆⠀⠀⠀⠀⣿⣿⣿⣿⡃⠀⠀⠀ ⠀⠀⠀⢸⣿⣿⣿⠆⠐⣲⣾⣿⠟⠀⢻⣿⣿⡄⠀⠀⠀⣿⣿⣿⣿⠁⠀⠀⠀ ⠀⠀⠀⠾⣿⣿⣷⠀⢸⣾⣿⡏⠀⠀⠀⣿⣾⣿⡄⠀⠀⣿⣿⣿⡟⠀⠀⠀⠀ ⠀⠀⠀⠀⣿⣿⠃⣴⣿⣿⠟⠃⠀⠀⠀⠈⣿⣿⣿⡀⢀⣿⣿⣿⠀⠀⠀⠀⠀ ⠀⠀⠀⢤⠿⢿⣶⡿⣟⠛⠁⠀⠀⠀⠀⠀⢻⣿⣿⣿⡾⣾⣿⣿⠀⠀⠀⠀",
+            "showInMsgContextMenu": false
         }
     ]
 }

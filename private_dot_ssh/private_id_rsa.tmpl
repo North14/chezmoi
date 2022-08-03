@@ -1,1 +1,4 @@
-{{ (bitwarden "item" "ssh-rsa").notes }}
+{{ if eq .hwmodel "MS-7751" }}
+{{ else if eq .hwmodel "HP ZBook 15u G3" }}
+{{ (bitwarden "item" "laptop-ssh-rsa").notes }}
+{{ end }}
