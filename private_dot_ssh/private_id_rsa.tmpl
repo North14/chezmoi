@@ -1,4 +1,5 @@
-{{ if eq .hwmodel "MS-7751" }}
-{{ else if eq .hwmodel "HP ZBook 15u G3" }}
+{{ if eq .hwmodel "MS-7751" -}}
+{{ (bitwarden "item" "home-ssh-rsa").notes }}
+{{ else if eq .hwmodel "HP ZBook 15u G3" -}}
 {{ (bitwarden "item" "laptop-ssh-rsa").notes }}
-{{ end }}
+{{- end }}
