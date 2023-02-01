@@ -43,7 +43,8 @@
         "unzip",
         "dunst",
         "git",
-        "lightdm"
+        "lightdm",
+        "lightdm-gtk-greeter"
     ],
     "plugin": null,
     "profile": {
