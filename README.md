@@ -32,3 +32,8 @@ Requires age key in ~/.config/sops/age/keys.txt
 
     sudo systemctl disable lightdm
     sudo systemctl enable ly
+
+
+## Latex
+
+    yay -S texlive texlive-lang python-pygments
