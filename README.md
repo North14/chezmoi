@@ -46,3 +46,8 @@ Requires age key in ~/.config/sops/age/keys.txt
 /etc/modprobe.d/blacklist.conf
 
     blacklist radeon
+
+### Latex
+
+    yay -S --needed $(cat packages-latex)
+    # from nvim - :PlugInstall
