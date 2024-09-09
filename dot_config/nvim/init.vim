@@ -69,17 +69,25 @@ let &g:directory.='/vim/swap//'
 " Make zathura default view and latex default tex flavor
 let g:tex_flavor='latex'
 let g:vimtex_view_method = 'zathura'
+let g:vimtex_compiler_method = 'tectonic'
 
-let g:vimtex_compiler_latexmk = {
+let g:vimtex_compiler_tectonic = {
     \ 'options' : [
-    \   '-pdf',
-    \   '-shell-escape',
-    \   '-verbose',
-    \   '-file-line-error',
-    \   '-synctex=1',
-    \   '-interaction=nonstopmode',
+    \   '-Z="shell-escape"',
+    \   '--keep-logs'
     \ ],
     \}
+
+" let g:vimtex_compiler_latexmk = {
+"     \ 'options' : [
+"     \   '-pdf',
+"     \   '-shell-escape',
+"     \   '-verbose',
+"     \   '-file-line-error',
+"     \   '-synctex=1',
+"     \   '-interaction=nonstopmode',
+"     \ ],
+"     \}
 
 " Run current file using <F7>
 nmap <F7> :w<cr>:!clear;"%:p"<cr>

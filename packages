@@ -1,9 +1,8 @@
 age
 bitwarden
 bitwarden-cli
-chatterino2-7tv-git
 chezmoi
-clipit
+copyq
 discord
 dunst
 easyeffects
@@ -18,10 +17,11 @@ nmap
 polybar
 qbittorrent
 sops
-steam
 traceroute
 herbstluftwm
 rofi
 ly
 wireguard-tools
 feh
+zsh
+yarn
