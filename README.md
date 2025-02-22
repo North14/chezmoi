@@ -41,6 +41,7 @@ Requires age key in ~/.config/sops/age/keys.txt
 
     sudo systemctl disable lightdm
     sudo systemctl enable ly
+
 ### Blacklist Radeon
 
 /etc/modprobe.d/blacklist.conf
@@ -51,3 +52,8 @@ Requires age key in ~/.config/sops/age/keys.txt
 
     yay -S --needed $(cat packages-latex)
     # from nvim - :PlugInstall
+
+### Other
+
+    # Change default web browser
+    xdg-settings set default-web-browser firefox.desktop
